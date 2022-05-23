@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-### Hi there 👋
 
 - 🌱 I’m currently learning JavaScript
 - 👯 I’m looking to collaborate on WEB Projects
