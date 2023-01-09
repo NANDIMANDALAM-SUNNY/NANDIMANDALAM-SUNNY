@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently learning React
+- 🌱 I’m currently looking for Full Stack Developer Job
 - 👯 I’m looking to collaborate on WEB Projects
 - 🤔 I’m looking for help with API (development)
 - 💬 Ask me about NANDIMANDALAM-SUNNY (Tech's spike)
